@@ -5,7 +5,11 @@ InventFest
 
 ## Greetings BitSTARs,
 
-Chloe and Vanessa here, your hostesses for InventFest. We're so glad you're here :)
+Chloe and Vanessa here from the littleBits Community Team. We wanted to cordially invite you to something very special happening in just a few weeks. To celebrate and grow our community of bitSTARS, amazing makers and mentors around the world like yourselves we are launching a global program called #InventAnything. 
+
+The goal of the program is to create opportunities to empower everyone, regardless of age, gender, technical ability, or discipline, to reinvent their world using open hardware as a building block. 
+
+We are kickstarting #InventAnything with a grand online making festival called InventFest.
 
 Have you ever wondered what's the best way to teach circuits? Or design learning activities for your events? How do you build a local following or community? Or maybe you are stumpted and just want to meet other people who run littleBits groups around the world?
 

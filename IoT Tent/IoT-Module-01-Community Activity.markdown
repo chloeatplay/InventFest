@@ -2,7 +2,7 @@
 # IoT Module 1 Community Activity: Bitified Museum Protection
 
 ## Core Questions
-- How would you “hack” the "If these Walls Could Talk" activity to improve it?
+- How would you “hack” the "Bitified Museum Protection" activity to improve it?
 - If you could revise this activity for a group, what would that look like?
 - Post your activity in Discourse below. 
 - We've included a community activity you can pick up and use for your chapter or local group. 
